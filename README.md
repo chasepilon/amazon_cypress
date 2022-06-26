@@ -13,6 +13,6 @@ npm install cypress --save-dev
 npx cypress open
 ```
 
-## Select E2E
-## Select desired browser
-## Run desired test
+* Select E2E
+* Select desired browser
+* Run desired test
