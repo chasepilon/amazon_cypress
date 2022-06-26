@@ -1,0 +1,26 @@
+{
+  "search_query": "shoes",
+  "filters": {
+    "one": "one",
+    "two": "two"
+  },
+  "knownShoeURL": "s?k=shoes&crid=1YWFXBO0BI1C0&sprefix=shoes%2Caps%2C252",
+  "shoeCategories": [
+    "Men's Road Running Shoes",
+    "Women's Running Shoes",
+    "Women's Fashion Sneakers",
+    "Men's Fashion Sneakers",
+    "Men's Walking Shoes",
+    "Women's Walking Shoes",
+    "Women's Loafers & Slip-Ons",
+    "Men's Athletic Shoes",
+    "Women's Athletic Shoes",
+    "Girls' Athletic Shoes",
+    "Boys' Athletic Shoes"
+  ],
+  "knownShoeProductDetailURL": "Amazon-Essentials-Womens-Shelly-Sneaker/dp/B07QDS9KVH/",
+  "productDetails": {
+    "title": "Amazon Essentials Women's Shelly Sneaker",
+    "color": "White"
+  }
+}
